@@ -1,4 +1,4 @@
-# Applied Statistics & Inference Assignment
+# Statistics & Inference Assignment
 
 This repository highlights my ability to work with **statistical concepts, hypothesis testing, probability distributions, and Python-based data analysis**. The assignment includes a diverse set of questions covering theory, coding, and interpretation — demonstrating both conceptual clarity and practical implementation skills.
 
